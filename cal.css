@@ -28,7 +28,7 @@ body {
   button {
     font-size: 20px;
     padding: 10px;
-    background-color: #e80078;
+    background-color: #e80088;
     border: 1px solid #0a0c0c;
     border-radius: 5px;
     cursor: pointer;
@@ -62,7 +62,7 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background-color: rgba(255, 255, 255, 0.8); /* Background color for the calculator */
+    background-color: rgba(256, 255, 255, 0.8); /* Background color for the calculator */
     padding: 20px;
     border-radius: 10px;
     text-align: center;
