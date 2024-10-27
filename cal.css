@@ -5,9 +5,11 @@ body {
     height: 100vh;
     margin: 0;
   }
-  
+
+
   .calculator {
     border: 1px solid #060606;
+      
     border-radius: 6px;
       
     padding: 20px;
