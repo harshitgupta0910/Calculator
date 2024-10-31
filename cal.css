@@ -38,7 +38,7 @@ body {
   }
   
   button:hover {
-    background-color: #0fa3c1;
+    background-color: #0fa2c1;
   }
   
 
@@ -90,5 +90,5 @@ body {
 
 .author {
   font-size: 24px;
-  color: #00259e; /* Text color for the author information (white) */
+  color: #00254e; /* Text color for the author information (white) */
 }
