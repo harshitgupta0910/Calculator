@@ -88,6 +88,7 @@ function fibonacci(n) {
 function checkPrime() {
   try {
       const inputValue = parseFloat(displayValue);
+    
       if (!isNaN(inputValue) && inputValue > 1) {
           if (isPrime(inputValue)) {
               displayValue = "Prime";
@@ -133,6 +134,7 @@ function calculateFactorial() {
 }
 
 function factorial(n) {
+  
   if (n === 0) return 1;
   return n * factorial(n - 1);
 }
